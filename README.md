@@ -10,7 +10,7 @@
 ![](https://github.com/winterssy/face_recognition_py/raw/master/images/DataManageUI.png)
 
 ## 如何运行？
-以下操作基于Anaconda3环境，并在Windows10 x64上测试。
+以下操作基于Anaconda3环境，并在macos上测试。
 ### 克隆代码
 ```
 $ git clone https://github.com/winterssy/face_recognition_py.git
