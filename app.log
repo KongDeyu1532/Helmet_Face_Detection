@@ -1,0 +1,6 @@
+[2020-04-21 19:13:25,550] DEBUG - face_id：1，confidence：20.90090499462747 - core1.py:678
+[2020-04-21 19:13:28,597] DEBUG - face_id：1，confidence：22.43224270484875 - core1.py:678
+[2020-04-21 19:13:47,137] DEBUG - face_id：1，confidence：26.551419435497746 - core1.py:678
+[2020-04-21 19:14:07,455] DEBUG - face_id：1，confidence：25.52877138849973 - core1.py:678
+[2020-04-21 19:14:12,646] DEBUG - face_id：1，confidence：24.828137472577932 - core1.py:678
+[2020-04-21 19:14:16,668] DEBUG - face_id：1，confidence：22.522930918728637 - core1.py:678
